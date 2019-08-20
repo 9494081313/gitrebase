@@ -1,10 +1,6 @@
 this is first line
 this is second line
-<<<<<<< HEAD
 this is third  line
 this is fourth line
 this is revert code
-=======
-this is third line
-this is fourth line
->>>>>>> 21f6cacf32be0a6d5427bcc08b8dc3d7a28c8879
+reverse order
